@@ -15,10 +15,6 @@ An interactive **Streamlit web app** to search companies/tickers using the **Fin
 
 ## 🛠️ Installation  
 
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/yourusername/stock-price-app.git
-cd stock-price-app
 pip install -r requirements.txt
 ▶️ Usage
 Run the app with:
@@ -46,8 +42,5 @@ FINNHUB_API_KEY = "your_api_key_here"
 📋 Requirements
 See requirements.txt.
 
-📸 App Preview
 
-🤝 Contributing
-Pull requests are welcome! Please open an issue first to discuss new features or fixes.
 
